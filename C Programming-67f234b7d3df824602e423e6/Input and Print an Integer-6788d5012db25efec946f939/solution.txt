@@ -1,0 +1,1 @@
+[{"code":"// Write your code here...\r\n#include <stdio.h>\r\nint main() {\r\nint n;\r\nscanf(\"%d\", &n);\r\nprintf(\"You entered: %d\", n);\r\n}\r\n","language":"c","time":"2025-04-12T09:45:33.779Z","isCorrect":true}]
